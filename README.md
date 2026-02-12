@@ -8,66 +8,66 @@ Tools used: SQL, Excel, Power BI, Tableau
 
 🎯 Business Problems Solved
 
-Restaurant count by City and Country
+i.Restaurant count by City and Country
 
-Restaurant openings by Year / Quarter / Month
+ii.Restaurant openings by Year / Quarter / Month
 
-Rating distribution analysis
+iii.Rating distribution analysis
 
-Price bucket segmentation
+iv.Price bucket segmentation
 
-% Restaurants with Table Booking
+v.% Restaurants with Table Booking
 
-% Restaurants with Online Delivery
+vi.% Restaurants with Online Delivery
 
-Cuisine and city trend analysis
+vii.Cuisine and city trend analysis
 
-Financial calendar modeling
+viii.Financial calendar modeling
 
 🧹 Data Preparation
 
-Data cleaning and transformation in Excel
+i.Data cleaning and transformation in Excel
 
-Handling missing values
+ii.Handling missing values
 
-Standardization of columns
+iii.Standardization of columns
 
-Derived fields creation
+iv.Derived fields creation
 
 🗄️ SQL Analysis
 
-Joins and aggregations
+i.Joins and aggregations
 
-Grouping and filtering
+ii.Grouping and filtering
 
-Business KPI extraction queries
+iii.Business KPI extraction queries
 
-Bucket and percentage calculations
+iv.Bucket and percentage calculations
 
 See: /sql/zomato_analysis_queries.sql
 
 📊 Dashboards Built
 Power BI Dashboard
 
-KPI cards
+i.KPI cards
 
-Country & City distribution
+ii.Country & City distribution
 
-Ratings analysis
+iii.Ratings analysis
 
-Price bucket charts
+iv.Price bucket charts
 
-Delivery & booking percentage metrics
+v.Delivery & booking percentage metrics
 
 File: /powerbi/ZomatoDashboard.pbix
 
 Tableau Dashboard
 
-Interactive restaurant insights
+i.Interactive restaurant insights
 
-Cuisine & rating visuals
+ii.Cuisine & rating visuals
 
-Geographic distribution
+iii.Geographic distribution
 
 File: /tableau/zomato_analytics.twbx
 
